@@ -88,7 +88,11 @@
 .u-section-1 .u-container-layout-5 {
   padding: 30px;
 }
-
+@media (max-width: 1200px){
+  .u-header {
+    display: none;
+  }
+}
 @media (max-width: 1199px) {
    .u-section-1 {
     min-height: 683px;
