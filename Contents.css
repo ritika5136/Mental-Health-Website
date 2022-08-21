@@ -138,6 +138,12 @@
   .u-section-1 .u-image-6 {
     min-height: 348px;
   }
+
+}
+@media (max-width: 1000px){
+  .u-header{
+    display: none;
+  }
 }
 
 @media (max-width: 991px) {
