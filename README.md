@@ -1,2 +1,2 @@
 # Mental-Health-Website
-Practising web devlopment.
+Practising web development.
